@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Management & Resident Escalation Portal",
+  "description": "Complete full-stack hostel booking, room management, resident portal, complaint tracking, and police escalation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
